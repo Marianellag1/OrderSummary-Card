@@ -1,0 +1,63 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-image: url('../images/pattern-background-desktop.svg');
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.container {
+    width: 25rem;
+    padding: 0;
+    margin-top: 45px;
+    /* box-shadow: 5px 5px rgb(50, 98, 114); */
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.card-text {
+    font-weight: 500;
+    color: hsl(224, 23%, 55%);
+    font-size: 16px;
+}
+
+.box {
+    border: solid plum;
+    /* backdrop-filter: contrast(1.5); */
+    box-shadow: 5px 5px lightgrey;
+
+
+}
+
+
+.word h3 {
+    font-size: 16px;
+    margin-right: 15px;
+}
+
+.annual {
+    display: flex;
+    margin: 0;
+}
+
+.note-img {
+  margin-left:25px ;
+}
+
+.change {
+    color: hsl(223, 47%, 23%);
+    text-decoration: none;
+}
+
+.cancel {
+    text-decoration: none;
+    color: hsl(223, 47%, 23%);
+}

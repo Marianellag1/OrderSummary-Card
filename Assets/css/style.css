@@ -30,7 +30,8 @@ body {
 }
 
 .box {
-    border: solid plum;
+    border: solid #d6e1ff;
+    background: #d6e1ff;
     /* backdrop-filter: contrast(1.5); */
     box-shadow: 5px 5px lightgrey;
 

@@ -46,7 +46,6 @@ body {
 main {}
 
 .box {
-    border: 1px solid;
     border-radius: 16px;
     width: 350px;
     height: 525px;

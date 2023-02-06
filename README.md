@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![screenshot](./images/rename.png)
 
 ### Links
 
